@@ -1,0 +1,2 @@
+# GrowFast.Tech
+ Educational Repo
